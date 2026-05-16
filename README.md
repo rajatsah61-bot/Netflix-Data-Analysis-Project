@@ -149,12 +149,6 @@ using Power BI Desktop.
 
 ---
 
-# 📷 Dashboard Preview
-
-_Add dashboard screenshots here_
-
----
-
 # 🤝 Contributing
 
 Contributions are welcome. Feel free to fork the repository and submit pull requests.
